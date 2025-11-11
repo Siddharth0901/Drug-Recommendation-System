@@ -70,6 +70,8 @@ Drug-Recommendation-System/
 ##Future Improvements
 
 -Expand dataset diversity for better generalization.
+
 -Implement web or mobile interface for real-world deployment.
+
 -Include additional diseases and drug categories.
 
