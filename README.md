@@ -55,7 +55,7 @@ This notebook demonstrates an end-to-end AI pipeline combining medical imaging, 
 
 ---
 
-**## Future Improvements**
+## ** Future Improvements**
 
 -Expand dataset diversity for better generalization.
 
