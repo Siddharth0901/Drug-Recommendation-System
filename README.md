@@ -55,19 +55,7 @@ This notebook demonstrates an end-to-end AI pipeline combining medical imaging, 
 
 ---
 
-##  Project Structure
-
-Drug-Recommendation-System/
-│
-├── Drug_Recommendation_System.ipynb # Main Colab notebook
-├── model/ # Saved model files 
-├── dataset/ # X-ray datasets 
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
----
-
-##Future Improvements
+**##Future Improvements**
 
 -Expand dataset diversity for better generalization.
 
